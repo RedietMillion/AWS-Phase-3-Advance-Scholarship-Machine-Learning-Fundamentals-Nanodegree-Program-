@@ -21,4 +21,4 @@ CNN fundamentals, transfer learning, auto encoders, object detection, object seg
 
 SageMaker studio, lambda and step function workflow, cloud gateway, AWS
 
-<img src="https://github.com/RedietMillion/AWS-Phase-3-Advance-Scholarship-Machine-Learning-Fundamentals-Nanodegree-Program-/blob/main/aws.PNG" />
+<img src="https://github.com/RedietMillion/AWS-Phase-3-Advance-Scholarship-Machine-Learning-Fundamentals-Nanodegree-Program-/blob/main/aws.png" />
