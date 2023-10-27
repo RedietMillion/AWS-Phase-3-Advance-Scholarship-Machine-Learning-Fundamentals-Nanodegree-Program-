@@ -13,8 +13,6 @@ Model training, testing, validation, EDA, AutoGloun framework, SageMaker studio
 
 Deep learning essentials, Feed forward/backward, perceptrons (multiplayer), gradient descent, logistic regression, ML fine tuning parameters, Pytorch
 
-<img src="https://github.com/RedietMillion/AWS-Phase-3-Advance-Scholarship-Machine-Learning-Fundamentals-Nanodegree-Program-/blob/main/aws.PNG" />
-
 ### Landmark classification and tagging for social media
 
 CNN fundamentals, transfer learning, auto encoders, object detection, object segmentation
@@ -23,3 +21,4 @@ CNN fundamentals, transfer learning, auto encoders, object detection, object seg
 
 SageMaker studio, lambda and step function workflow, cloud gateway, AWS
 
+<img src="https://github.com/RedietMillion/AWS-Phase-3-Advance-Scholarship-Machine-Learning-Fundamentals-Nanodegree-Program-/blob/main/aws.PNG" />
